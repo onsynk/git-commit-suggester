@@ -1,0 +1,7 @@
+{
+    "organization": "obelaw",
+    "skill": "git-commit-suggester",
+    "version": "1.0.0",
+    "description": "Commit message suggester",
+    "license": "MIT"
+}
